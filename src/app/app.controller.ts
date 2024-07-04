@@ -6,7 +6,7 @@ import { MusicService } from '../music/music.service';
 export class AppController {
   constructor(
     private readonly weatherService: WeatherService,
-    private readonly musicService: MusicService
+    private readonly musicService: MusicService,
   ) {}
 
   @Get('suggest-music')
