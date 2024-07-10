@@ -20,7 +20,7 @@ export class AppService {
     } catch (error) {
       return {
         error: true,
-        message: 'We have a problem trying to get data.',
+        message: 'A problem ocurred.',
       };
     }
   }
