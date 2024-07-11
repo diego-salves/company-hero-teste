@@ -80,9 +80,9 @@ Sugere músicas com base na temperatura da cidade.
 
 ```bash
 curl -X GET "https://company-hero-teste.onrender.com/suggest-music?city=Rio%20de%20Janeiro"
-
+```
 #### Exemplo de Resposta
-
+```bash
 {
   "track": "Summer Song",
   "playlist": "Summer Hits",
