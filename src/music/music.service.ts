@@ -46,6 +46,7 @@ export class MusicService {
     return {
       playlist: playlistInfo.external_urls.spotify.split('playlist/')[1],
       track: track.external_urls.spotify.split('track/')[1],
+      playlist_url: playlistInfo.external_urls.spotify
     };
   }
 }
