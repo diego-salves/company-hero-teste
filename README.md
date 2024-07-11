@@ -3,7 +3,7 @@
 ## Descrição
 
 Este serviço sugere músicas aos usuários com base na temperatura de uma cidade. Utiliza dados de clima do OpenWeather e recomendações de músicas do Spotify.
-Pode ser testado a partir de um frontend publicado na Vercel: [Clique aqui para acessar.]((https://company-hero-test-frontend.vercel.app/))
+Pode ser testado a partir de um frontend publicado na Vercel: [https://company-hero-test-frontend.vercel.app/](https://company-hero-test-frontend.vercel.app/)
 
 **Observação:** Devido ao uso do plano gratuito do Render, a primeira requisição à API pode demorar até 50 segundos, pois o serviço precisa sair do modo de hibernação. Após essa primeira requisição, as respostas subsequentes serão mais rápidas.
 
