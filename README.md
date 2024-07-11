@@ -164,7 +164,7 @@ O deploy desta aplicação foi realizado na plataforma [Render](https://render.c
 A aplicação é responsiva e pode ser acessada também no aparelho celular.
 
 #### Visualização em Desktop
-![Visualização em Desktop](https://drive.google.com/file/d/1GchgrB4AxyA_6TBEydRrxyV13d7Oer72/view?usp=sharing)
+![Visualização em Desktop](https://drive.google.com/uc?export=view&id=1Gy43yREma4zRqmyQmOIEPulUbskO77Nh)
 
 #### Visualização em Mobile
-![Visualização em Mobile](https://drive.google.com/file/d/1Gy43yREma4zRqmyQmOIEPulUbskO77Nh/view?usp=sharing)
+![Visualização em Mobile](https://drive.google.com/uc?export=view&id=1GchgrB4AxyA_6TBEydRrxyV13d7Oer72)
